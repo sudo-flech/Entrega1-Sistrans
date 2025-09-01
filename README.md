@@ -3,4 +3,4 @@ Nombres de integrantes:
 * Camilo Romero - 202411065
 * Simon Pineda - 202410683
 
-Disculpen que como tuvimos un problema con el github de camilo, no fue posible añadirnos a un repo, por lo tanto nos toco crear el repositorio a nosotros mismos. 
+Disculpen que como tuvimos un problema con el github de camilo, no fue posible añadirnos a un repositorio a tiempo y por ende nos toco crear el repositorio a nosotros mismos. 
